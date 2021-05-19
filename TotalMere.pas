@@ -1,11 +1,12 @@
 ﻿Program TotalMere;
 
-  var
-    applesMaria: word;
-    applesIoana: word;
-    applesMihai: word;
-    totalApples: word;
-    z: word;
+var
+  applesMaria: word;
+  applesIoana: word;
+  applesMihai: word;
+  totalApples: word;
+  z: word;
+  
 begin
   writeln('Cite mere are Ioana');
   readln(applesIoana);

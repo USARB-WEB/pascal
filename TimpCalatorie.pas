@@ -9,6 +9,7 @@ var
    travelTimeInMinutes: 0..1440;
    
 begin
+  
    writeln('Introduceti timpul plecarii: '); 
    write('Ora=');
    readln(departureHour);
